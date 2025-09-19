@@ -79,7 +79,3 @@ The notebook explores *purchase patterns, customer demographics, discount strate
 
 ---
 
-## 🚀 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/shopping-behavior-analysis.git
